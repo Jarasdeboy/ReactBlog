@@ -1,6 +1,0 @@
-$ORIGIN ja.com.
-$TTL 1800
-ja.com. IN SOA ns1.digitalocean.com. hostmaster.ja.com. 1663083195 10800 3600 604800 1800
-ja.com. 1800 IN NS ns1.digitalocean.com.
-ja.com. 1800 IN NS ns2.digitalocean.com.
-ja.com. 1800 IN NS ns3.digitalocean.com.
